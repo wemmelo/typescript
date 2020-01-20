@@ -11,6 +11,15 @@
                 "$tsc-watch"
             ],
             "group": "build"
+        },
+        {
+            "type": "typescript",
+            "tsconfig": "orientacao-objetos/tsconfig.json",
+            "option": "watch",
+            "problemMatcher": [
+                "$tsc-watch"
+            ],
+            "group": "build"
         }
     ]
 }

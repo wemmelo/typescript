@@ -1,4 +1,4 @@
-var notasAlunos = [10, 8, 7, 6.5];
+var notasAlunos = [8, 7, 6.5, 2];
 //valores - of
 for (var _i = 0, notasAlunos_1 = notasAlunos; _i < notasAlunos_1.length; _i++) {
     var notasAluno = notasAlunos_1[_i];
